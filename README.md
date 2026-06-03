@@ -12,6 +12,24 @@ A MERN-style interview assignment for creating availability slots and sharing a 
 - Booked slots are removed from the public availability list
 - Basic responsive UI for login, register, dashboard, public booking, and 404 pages
 
+## Screenshots
+
+### Login Page
+
+![Login Page](docs/screenshots/login.png)
+
+### Register Page
+
+![Register Page](docs/screenshots/register.png)
+
+### Availability Dashboard
+
+![Availability Dashboard](docs/screenshots/availability.png)
+
+### Public Booking Page
+
+![Public Booking Page](docs/screenshots/public-booking.png)
+
 ## Tech Stack
 
 - Frontend: React, Vite, React Router, Axios
